@@ -32,7 +32,7 @@ Escreva aqui uma breve apresentação sobre você, seus objetivos, seus estudos 
 ### 🌐 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3ovictormarques/?isSelfProfile=true" target="_blank">
+  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN](https://www.linkedin.com/in/jo%C3%A3ovictormarques/?isSelfProfile=true)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
