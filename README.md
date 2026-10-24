@@ -1,7 +1,7 @@
 # Olá, eu sou o João Victor Marques Pinto 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=500&lines=Desenvolvedor+Software;Entusiasta+de+Tecnologia;Sempre+Aprendendo+Coisas+Novas" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00d2ff,50:928dab,100:ffc107&height=120&section=header&text=Desenvolvedor%20Front-end&fontSize=24&fontColor=fff&animation=fadeIn" alt="Header" />
 </p>
 
 ---
@@ -30,19 +30,10 @@ Escreva aqui uma breve apresentação sobre você, seus objetivos, seus estudos 
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Marqueszzz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqueszzz&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ### 🌐 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a https://www.linkedin.com/in/jo%C3%A3ovictormarques/?isSelfProfile=true>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
