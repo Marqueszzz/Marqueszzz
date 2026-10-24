@@ -1,9 +1,8 @@
 # Olá, eu sou o João Victor Marques Pinto 👋
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&customColorList=0:00d2ff,50:9b51e0,100:ffc107&text=Desenvolvedor%20Front-end&fontSize=26&fontColor=gradient" alt="Desenvolvedor Front-end" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&gradient=true&gradientColors=00D2FF,9B51E0,FFC107&width=350&height=35&lines=Desenvolvedor+Front-end" alt="Desenvolvedor Front-end" />
 </p>
-
 ---
 
 ### 🚀 Sobre Mim
