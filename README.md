@@ -1,7 +1,7 @@
 # Olá, eu sou o João Victor Marques Pinto 👋
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00d2ff,50:928dab,100:ffc107&height=120&section=header&text=Desenvolvedor%20Front-end&fontSize=24&fontColor=fff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&customColorList=0:00d2ff,50:9b51e0,100:ffc107&text=Desenvolvedor%20Front-end&fontSize=26&fontColor=gradient" alt="Desenvolvedor Front-end" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ Escreva aqui uma breve apresentação sobre você, seus objetivos, seus estudos 
 ### 🌐 Conecte-se Comigo
 
 <p align="left">
-  <a https://www.linkedin.com/in/jo%C3%A3ovictormarques/?isSelfProfile=true>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3ovictormarques/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
